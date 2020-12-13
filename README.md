@@ -12,6 +12,6 @@
 
 - send these parameters in body:
 
-- - psw (your password to obtain access to API)
+  - psw (your password to obtain access to API)
 
-- - powerOn (false -> lights off / true -> lights on)
+  - powerOn (false -> lights off / true -> lights on)

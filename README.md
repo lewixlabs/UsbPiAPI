@@ -1,6 +1,6 @@
 # UsbPiAPI
 ## Simple API inside Docker 🐳 to remotely power on/off your Raspberry USBs (tested on Raspberry Pi 4b 8GB)
-### Engine which turn usb off/on is the [uhubctl](https://github.com/mvp/uhubctl) project
+### Engine which turns usb off/on is the [uhubctl](https://github.com/mvp/uhubctl) project
 
 ### To build Docker image (remember to change env variables in Dockerfile)
 >docker build --rm --pull -f Dockerfile -t usb-api:latest .

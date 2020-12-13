@@ -3,7 +3,6 @@ const express = require('express');
 var cors = require('cors');
 const exec = require('child_process').exec;
 const app = express();
-
 const https = require('https')
 
 let bodyParser = require('body-parser');
